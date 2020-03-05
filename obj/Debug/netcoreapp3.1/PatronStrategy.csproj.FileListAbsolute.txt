@@ -1,0 +1,11 @@
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\04_Strategy\bin\Debug\netcoreapp3.1\PatronStrategy.exe
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\04_Strategy\bin\Debug\netcoreapp3.1\PatronStrategy.deps.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\04_Strategy\bin\Debug\netcoreapp3.1\PatronStrategy.runtimeconfig.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\04_Strategy\bin\Debug\netcoreapp3.1\PatronStrategy.runtimeconfig.dev.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\04_Strategy\bin\Debug\netcoreapp3.1\PatronStrategy.dll
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\04_Strategy\bin\Debug\netcoreapp3.1\PatronStrategy.pdb
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\04_Strategy\obj\Debug\netcoreapp3.1\PatronStrategy.csprojAssemblyReference.cache
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\04_Strategy\obj\Debug\netcoreapp3.1\PatronStrategy.AssemblyInfoInputs.cache
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\04_Strategy\obj\Debug\netcoreapp3.1\PatronStrategy.AssemblyInfo.cs
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\04_Strategy\obj\Debug\netcoreapp3.1\PatronStrategy.dll
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\04_Strategy\obj\Debug\netcoreapp3.1\PatronStrategy.pdb
